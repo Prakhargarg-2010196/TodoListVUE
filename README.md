@@ -11,3 +11,6 @@
 ## Extra feature 
 - don't take empty input and create error warning for it
 
+
+- [PPT view link](https://www.canva.com/design/DAF7w8jAuwc/E1FDW0qO0MFH28LNe67wBA/view?utm_content=DAF7w8jAuwc&utm_campaign=designshare&utm_medium=link&utm_source=editor).  
+- [Github Project Link](https://github.com/Prakhargarg-2010196/TodoListVUE)
