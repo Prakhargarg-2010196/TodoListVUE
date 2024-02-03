@@ -16,6 +16,8 @@
 To Run this project
 - First clone this repo `git clone git@github.com:Prakhargarg-2010196/TodoListVUE.git`
 - now cd TodoListVue and run `npm i` or `pnpm i`
-- now run `npm run dev` or `pnpm run dev` to run the app 
+- Also Setup json-server globally using command `npm i -g json-server`
+- Run json server using `json-server --watch db.json --port 3001`
+- now run `npm run dev` or `pnpm run dev` to run the app in another terminal
 - [PPT view link](https://www.canva.com/design/DAF7w8jAuwc/E1FDW0qO0MFH28LNe67wBA/view?utm_content=DAF7w8jAuwc&utm_campaign=designshare&utm_medium=link&utm_source=editor).  
 - [Github Project Link](https://github.com/Prakhargarg-2010196/TodoListVUE)
